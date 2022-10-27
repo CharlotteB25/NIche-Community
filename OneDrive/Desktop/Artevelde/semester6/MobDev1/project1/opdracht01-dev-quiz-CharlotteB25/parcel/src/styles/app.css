@@ -31,7 +31,7 @@ h2{
 .levels__button-easy, .levels__button-medium, .levels__button-hard {
 	
 	color: rgb(212, 55, 55);
-	background-color: blanchedalmond;
+	background-color: rgb(110, 71, 13);
 	size: 20px;
 	padding: 5px;
 	cursor: pointer;
